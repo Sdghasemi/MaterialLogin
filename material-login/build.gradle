@@ -5,14 +5,14 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'material-login'
 
-    publishedGroupId = 'com.github.shem8'
+    publishedGroupId = 'com.github.sdghasemi'
     libraryName = 'material-login'
     artifact = 'material-login'
 
     libraryDescription = 'Login view with material design'
 
-    siteUrl = 'https://github.com/shem8/MaterialLogin'
-    gitUrl = 'https://github.com/shem8/MaterialLogin.git'
+    siteUrl = 'https://github.com/sdghasemi/MaterialLogin'
+    gitUrl = 'https://github.com/sdghasemi/MaterialLogin.git'
 
     libraryVersion = '2.1.1'
 
